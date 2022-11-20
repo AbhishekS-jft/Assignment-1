@@ -1,0 +1,38 @@
+body{
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div{
+    align-items: center;
+    align-content: center;
+}
+
+#station from{
+    height: 100px;
+}
+
+select{
+    font-size: medium;
+    font:  sans-serif;
+
+}
+
+button{
+    font-size: large;    
+}
+
+label{
+    font-size:x-large;
+}
+
+*:disabled{
+    background-color: floralwhite;    
+}
+
+input{
+    width: 100px;
+    height:24px;
+    font-size: medium;
+    font-weight: bolder;
+}
